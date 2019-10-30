@@ -1,4 +1,4 @@
-package com.mikaelwall.b_journey;
+package com.mikaelwall.bjourney;
 
 import org.junit.Test;
 
